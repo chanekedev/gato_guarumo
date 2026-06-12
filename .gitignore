@@ -1,0 +1,18 @@
+# Godot 4 generated files
+.godot/
+*.import
+*.translation
+export_presets.cfg
+
+# Build output
+builds/
+*.pck
+*.apk
+*.aab
+*.exe
+*.x86_64
+*.dmg
+
+# OS
+.DS_Store
+Thumbs.db

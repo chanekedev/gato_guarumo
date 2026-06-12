@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- Cabeza del gato (Freddy) -->
+  <rect x="32" y="32" width="64" height="56" fill="#000000"/>
+  <!-- Orejas -->
+  <polygon points="32,32 48,8 56,32" fill="#000000"/>
+  <polygon points="80,32 88,8 96,32" fill="#000000"/>
+  <!-- Ojos — verde CGA -->
+  <rect x="44" y="48" width="12" height="10" fill="#55FF55"/>
+  <rect x="72" y="48" width="12" height="10" fill="#55FF55"/>
+  <!-- Pupilas -->
+  <rect x="49" y="50" width="4" height="6" fill="#000000"/>
+  <rect x="77" y="50" width="4" height="6" fill="#000000"/>
+  <!-- Hocico -->
+  <rect x="56" y="64" width="16" height="8" fill="#AAAAAA"/>
+  <!-- Bigotes -->
+  <line x1="32" y1="68" x2="56" y2="68" stroke="#FFFFFF" stroke-width="2"/>
+  <line x1="72" y1="68" x2="96" y2="68" stroke="#FFFFFF" stroke-width="2"/>
+  <!-- Cuerpo -->
+  <rect x="40" y="88" width="48" height="32" fill="#000000"/>
+  <!-- Patas -->
+  <rect x="40" y="112" width="16" height="12" fill="#000000"/>
+  <rect x="72" y="112" width="16" height="12" fill="#000000"/>
+  <!-- Cola -->
+  <path d="M 88 104 Q 112 96 108 80 Q 104 64 116 60" stroke="#000000" stroke-width="6" fill="none"/>
+</svg>
